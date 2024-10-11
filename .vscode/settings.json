@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/12729d1a-6af4-4fdf-9ac8-786e3a09fe33/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/CryptoPriceTracker",
+    "appService.deploySubpath": "."
+}
